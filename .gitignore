@@ -1,0 +1,10 @@
+*.dll
+*.exe
+*.pdb
+*.ilk
+Mouse Location/
+World-Test/
+build*
+.vscode/
+.vs/
+CMakeFiles
