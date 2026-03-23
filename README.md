@@ -3,9 +3,9 @@
 A robust, cross-platform 2D Chess engine built with **C++**. This project features a complete implementation of standard Chess rules for local multiplayer (Player vs. Player) gameplay, featuring a dynamic main menu and a unified CMake-based build system.
 
 <p align="center">
-  <img width="730" height="758" alt="Screenshot_20260323_153014" src="https://github.com/user-attachments/assets/9bd59f32-07e4-4ec2-836e-de50f82b452d" />
+  <img width="600" height="628" alt="Screenshot_20260323_155204" src="https://github.com/user-attachments/assets/c418bd67-98a1-411b-9bb2-0ffec85e05e4" /><br />
+  *A look at the board during an active session.*
 </p>
-*A look at the board during an active session.*
 
 ## 🚀 Key Features
 * **Full Chess Logic:** Complete implementation of piece movement, turn-based mechanics, and board state validation.
