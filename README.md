@@ -22,7 +22,8 @@ A robust, cross-platform 2D Chess engine built with **C++**. This project featur
 
 ## 📂 Project Structure
 ```text
-├── src/                # Source code (.cpp and .h files)
+├── src/                # Source code (.cpp files)
+├── include/            # Source code (.h files)
 ├── assets/             # Textures, fonts, and icons
 ├── CMakeLists.txt      # Cross-platform build configuration
 └── README.md           # Documentation
