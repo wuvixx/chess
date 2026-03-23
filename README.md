@@ -16,9 +16,7 @@ A robust, cross-platform 2D Chess engine built with **C++**. This project featur
 ## 🛠️ Tech Stack
 * **Language:** C++
 * **Build System:** CMake (Version 3.10+)
-* **Graphics:** [Insert your library here, e.g., SFML, SDL2, or Raylib]
-* **Compiler Support:** * **Windows:** MSVC / Clang-cl
-    * **Linux:** GCC / Clang
+* **Graphics:** SDL2
 
 ## 📂 Project Structure
 ```text
